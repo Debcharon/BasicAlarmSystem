@@ -49,6 +49,6 @@ Materials that must be prepared:
 ## Hardware Setup
 
 1. Connect SIM800A module to DragonBoard 410c’s USB port via USB to TTL serial cable, insert SIM card and check antenna status
-2. Connect photoresistor module’s VCC pin to DragonBoard 410c’s 3.3V pin, GND pin to DragonBoard 410c’s GND pin, DO pin to DragonBoard 410c’s GPIO_34 pin
-3. Connect smoke sensor module’s VCC pin to DragonBoard 410c’s 5V pin, GND pin to DragonBoard 410c’s GND pin, DO pin to DragonBoard 410c’s GPIO_30 pin
+2. Connect photoresistor module’s VCC pin to DragonBoard 410c’s 5V pin, GND pin to DragonBoard 410c’s GND pin, DO pin to DragonBoard 410c’s GPIO_34 pin
+3. Connect gas sensor module’s VCC pin to DragonBoard 410c’s 5V pin, GND pin to DragonBoard 410c’s GND pin, DO pin to DragonBoard 410c’s GPIO_30 pin
 4. Connect DragonBoard 410c to display via HDMI cable, and plug in power cord and keyboard mouse
